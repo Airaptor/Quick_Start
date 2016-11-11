@@ -14,7 +14,10 @@ int firstIntDelimOfInt()
    cin >> numLim;
    return numLim;
 }
-
+/*
+/ Main fuction
+/ Work here
+*/
 int main()
 {
    int res = 0;
