@@ -11,6 +11,8 @@ A repo to store template quick-starter for projects
 
 ####[kattis](https://open.kattis.com/)
 
+####[Improve code](https://thoughtbot.com/upcase)
+
 ####[HackerRank](https://www.hackerrank.com/)
 
 ####[GeeksforGeeks](http://www.geeksforgeeks.org/)
